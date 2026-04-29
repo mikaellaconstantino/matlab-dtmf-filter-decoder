@@ -71,3 +71,7 @@ University of the Philippines Diliman
 
 ## Status
 Completed — University Machine Problem
+
+## Related Project
+See also: [DTMF Encoder and Decoder using FFT]
+(https://github.com/mikaellaconstantino/matlab-dtmf-encoder-decoder)
